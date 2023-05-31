@@ -1,0 +1,8 @@
+@include  article-menu ;
+                        h3 {
+                            affichage : flexible ;
+                            justifier-contenu : flex-start ;
+                            justifier-contenu : flex-start !important ;
+                            marge-gauche : 10 px ;
+                        }
+                    }
